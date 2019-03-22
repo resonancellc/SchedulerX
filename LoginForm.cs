@@ -20,7 +20,7 @@ namespace SchedulerX
 
         public LoginForm()
         {
-            InitializeComponent();
+            InitializeComponent();  
             lbl_login.Text = "du";
         }
 
