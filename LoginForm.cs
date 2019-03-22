@@ -21,6 +21,7 @@ namespace SchedulerX
         public LoginForm()
         {
             InitializeComponent();
+            lbl_login.Text = "du";
         }
 
         private void btn_login_Click(object sender, EventArgs e)
