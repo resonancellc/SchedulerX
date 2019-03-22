@@ -1,0 +1,6 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SchedulerX/v15/Server/sqlite3
+/.vs/SchedulerX/v15

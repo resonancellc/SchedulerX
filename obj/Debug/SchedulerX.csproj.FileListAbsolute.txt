@@ -8,3 +8,13 @@ D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.csproj.CoreCompileInputs.cache
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.exe
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.pdb
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.LoginForm.resources
+D:\[!]python-scripts\SchedulerX\bin\Debug\SchedulerX.exe.config
+D:\[!]python-scripts\SchedulerX\bin\Debug\SchedulerX.exe
+D:\[!]python-scripts\SchedulerX\bin\Debug\SchedulerX.pdb
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.csprojAssemblyReference.cache
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.LoginForm.resources
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.Properties.Resources.resources
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.csproj.GenerateResource.cache
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.csproj.CoreCompileInputs.cache
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.exe
+D:\[!]python-scripts\SchedulerX\obj\Debug\SchedulerX.pdb
