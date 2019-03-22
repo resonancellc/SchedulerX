@@ -8,3 +8,4 @@ D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.csproj.CoreCompileInputs.cache
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.exe
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.pdb
 D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.LoginForm.resources
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.MainForm.resources

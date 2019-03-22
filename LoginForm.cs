@@ -1,4 +1,5 @@
 ﻿using SchedulerX.Factory;
+using SchedulerX.Model;
 using SchedulerX.Validators;
 using System;
 using System.Collections.Generic;
@@ -34,9 +35,16 @@ namespace SchedulerX
             this._login = tb_login.Text;
             this._password = tb_password.Text;
 
-            if (_loginValidator.IsValid())
+            if (_loginValidator.IsValid(_login, _password))
             {
-                
+                IUser user = UserFactory.GetUserByLogin(_login);
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                // show error informing that inserted data was incorrect
             }
         }
     }

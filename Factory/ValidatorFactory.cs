@@ -13,5 +13,15 @@ namespace SchedulerX.Factory
         {
             return new LoginValidator();
         }
+
+        public static IValidator GetNewUserLoginValidator()
+        {
+            return new NewUserLoginValidator();
+        }
+
+        public static IValidator GetNewUserPasswordValidator()
+        {
+            return new NewUserPasswordValidator();
+        }
     }
 }
