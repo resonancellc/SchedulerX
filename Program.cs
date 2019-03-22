@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SchedulerX.Factory;
+using SchedulerX.Validators;
 
 namespace SchedulerX
 {
@@ -16,7 +18,9 @@ namespace SchedulerX
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForm());
+
+            IValidator loginValidator = ValidatorFactory.GetLoginValidator();
+            Application.Run(new LoginForm(loginValidator));
         }
     }
 }

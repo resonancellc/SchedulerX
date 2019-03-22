@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace SchedulerX.Validators
 {
-    public interface IValidate
+    public class NewUserPasswordValidator : IValidator
     {
-        bool Validate();
+        public bool Validate()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

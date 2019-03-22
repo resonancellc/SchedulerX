@@ -16,21 +16,28 @@ namespace SchedulerX
     {
         private string _login;
         private string _password;
+        private LoginValidator _loginValidator;
 
-
-        public LoginForm()
+        public LoginForm(IValidator loginValidator)
         {
-            InitializeComponent();  
-            lbl_login.Text = "du";
+            this._loginValidator = loginValidator as LoginValidator;
+            InitializeComponent();
         }
 
         private void btn_login_Click(object sender, EventArgs e)
         {
+            Login();
+        }
+
+        private void Login()
+        {
             this._login = tb_login.Text;
             this._password = tb_password.Text;
 
-            LoginValidator loginValidator = ValidatorFactory.GetLoginValidator() as LoginValidator;
-            bool isValid = loginValidator.IsValid();
+            if (_loginValidator.IsValid())
+            {
+                
+            }
         }
     }
 }
