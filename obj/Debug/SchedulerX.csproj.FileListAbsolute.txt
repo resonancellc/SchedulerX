@@ -1,0 +1,9 @@
+D:\Git\SchedulerX\SchedulerX\bin\Debug\SchedulerX.exe.config
+D:\Git\SchedulerX\SchedulerX\bin\Debug\SchedulerX.exe
+D:\Git\SchedulerX\SchedulerX\bin\Debug\SchedulerX.pdb
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.csprojResolveAssemblyReference.cache
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.Properties.Resources.resources
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.csproj.GenerateResource.Cache
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.csproj.CoreCompileInputs.cache
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.exe
+D:\Git\SchedulerX\SchedulerX\obj\Debug\SchedulerX.pdb
